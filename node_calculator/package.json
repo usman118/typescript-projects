@@ -1,0 +1,25 @@
+{
+  "name": "ncp_usman",
+  "version": "1.1.4",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "tsc": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "ncp": "bin/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/figlet": "^1.5.5",
+    "@types/inquirer": "^9.0.3",
+    "chalk": "^5.1.2",
+    "colors": "^1.4.0",
+    "figlet": "^1.5.2",
+    "inquirer": "^9.1.4"
+  }
+}
